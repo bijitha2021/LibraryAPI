@@ -1,2 +1,4 @@
 /apivenv
 /.idea
+/library/__pycache__
+/libraryApi/__pycache__
